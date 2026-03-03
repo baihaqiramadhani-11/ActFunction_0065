@@ -19,3 +19,10 @@ int Jumlah(int a, int b, int c){
 void output (){
         cout << "hasilnya = " << LuasPersegi(p,l) << endl;
 }
+//program utama
+int main()
+{//start
+     input();
+     output();
+     cout << "hasil penjualan = " << jumlah(5,6,9);
+}//selesai  
