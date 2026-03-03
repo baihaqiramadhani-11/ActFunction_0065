@@ -16,3 +16,6 @@ float LuasPersegi(floatx, float y){
 int Jumlah(int a, int b, int c){
     return a*b*c;
 }
+void output (){
+        cout << "hasilnya = " << LuasPersegi(p,l) << endl;
+}
