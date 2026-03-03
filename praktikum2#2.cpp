@@ -13,3 +13,6 @@ void input(){
 float LuasPersegi(floatx, float y){
     return x*y;
 }
+int Jumlah(int a, int b, int c){
+    return a*b*c;
+}
