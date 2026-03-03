@@ -17,3 +17,7 @@ void Output (){
 }
 //program utama
 int main()
+{//start
+    input();
+    output();
+}//selesai
